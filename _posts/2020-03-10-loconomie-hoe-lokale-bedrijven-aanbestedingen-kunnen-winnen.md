@@ -9,7 +9,7 @@ Lokale bedrijven hebben bij aanbestedingen van gemeenten en provincies soms het 
 
 ## Wat is de loconomie?
 
-De loconomie is een beweging waarbij overheden en consumenten bewust kiezen voor lokale leveranciers, om de lokale economie te versterken en de CO₂-uitstoot van transport te verminderen. Gemeenten zijn zich steeds meer bewust van hun rol als lokale opdrachtgever en proberen in hun inkoopbeleid ruimte te maken voor regionale bedrijven.
+De loconomie is een beweging waarbij overheden en consumenten bewust kiezen voor lokale leveranciers, om de lokale economie te versterken en de CO2-uitstoot van transport te verminderen. Gemeenten zijn zich steeds meer bewust van hun rol als lokale opdrachtgever en proberen in hun inkoopbeleid ruimte te maken voor regionale bedrijven.
 
 ## Wat betekent dit voor aanbestedingen?
 
