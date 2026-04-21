@@ -35,6 +35,7 @@
 
     <div class="menu_wrapper">
       <nav id="main-menu" role="navigation">
+        <span class="current-section" aria-hidden="true">{% if page.url == '/' or page.url contains 'in-memoriam' %}In Memoriam{% elsif page.url contains 'wat-zijn-we' %}Wat{% elsif page.url contains 'wie-we-zijn' %}Wie{% elsif page.url contains 'onze-diensten' %}Diensten{% elsif page.url contains 'complimenten' %}Complimenten{% elsif page.url contains 'een-greep-uit-onze-klanten' %}Klanten{% elsif page.url contains 'aanbestedingen-winnen' %}Boek{% elsif page.url contains 'members' %}Members{% elsif page.url contains '/blog' or page.layout == 'post' %}Blog{% elsif page.url contains 'contact' %}Contact{% endif %}</span>
         <button class="hamburger" id="hamburger-btn" aria-label="Menu openen" aria-expanded="false" aria-controls="main-menu-list">
           <span></span><span></span><span></span>
         </button>
