@@ -14,7 +14,7 @@ Snel bladert hij door naar het prijshoofdstuk. De prijs valt mee, maar op grond 
 
 Dat document is heel veel korter: 12 pagina's. De managementsamenvatting op pagina 1 gaat direct in op de vraag en de analyse van achterliggende oorzaken. Dan volgt kort de aangeboden oplossing en de tekst gaat verder met de voordelen van die oplossing. Daarna wordt beschreven hoe zijn processen eruit komen te zien als de oplossing gerealiseerd is. Dat spreekt hem wel aan. Hij ziet al voor zich hoeveel plezieriger het werk wordt en hoeveel kosten hij kan besparen. De managementsamenvatting eindigt met de investering die hij moet doen en hoe snel hij die investering weer terug verdient. Na 2 pagina's heeft hij al een helder beeld van wat hem wordt aangeboden en hij is enthousiast. Met belangstelling leest hij de volgende hoofdstukken en hij krijgt vertrouwen in de aanpak en het product. Voor hij het weet heeft hij het hele document uit. Het is overzichtelijk opgebouwd, makkelijk leesbaar en het bevat illustraties die zijn aandacht trekken en waarbij hij de onderschriften nieuwsgierig leest. De prijs is hoger dan die van de vorige aanbieding, zelfs een van de hoogste van alle andere, maar toch is dit de aanbieding waar hij het meeste vertrouwen in heeft.
 
-**Hieruit kan ik onder meer de volgende 10 schrijftips voor een onderscheidende offerte destilleren:**
+Hieruit kan ik onder meer de volgende 10 schrijftips voor een onderscheidende offerte destilleren:
 
 1. Schrijf een heldere managementsamenvatting, die direct ingaat op het probleem van de klant. Schrijf in je eigen woorden.
 2. Beschrijf de oplossing kort en bondig, maar ga vooral in op de voordelen ervan.

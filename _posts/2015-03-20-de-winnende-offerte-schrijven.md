@@ -14,7 +14,7 @@ De voorlaatste aanbieding ziet er ineens verrassend verzorgd uit. Het hele stuk 
 
 De les die je hieruit kunt leren is dat een beoordelaar vrijwel direct al een gevoel heeft over de kwaliteit van een aanbieding. En psychologisch werkt het dan zo, dat hem in de rest van het stuk altijd juist die elementen opvallen, die dat oorspronkelijke gevoel versterken.
 
-**Winnend schrijven**
+### Winnend schrijven
 
 Wat moet je dus doen om een winnende offerte te schrijven?
 
