@@ -95,6 +95,24 @@ hr {
   margin: 20px 0;
 }
 
+blockquote {
+  border: 1px solid rgb(226, 220, 220);
+  background: rgb(250, 247, 247) url('../images/quote.png') no-repeat;
+  padding: 10px 5px 5px 47px;
+  text-shadow: 1px 1px #fff;
+  margin: 5px 0;
+  border-radius: 7px;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+blockquote + p {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
 /* Utility
    ========================================================================== */
 
