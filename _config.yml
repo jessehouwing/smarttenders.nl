@@ -12,6 +12,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Navigation
+header_pages:
+  - onze-diensten.md
+  - wie-we-zijn.md
+  - aanbestedingen-winnen.md
+  - contact.md
+  - in-memoriam.md
+
+# Social links
+linkedin_username: roelfhouwing
+
 # Build settings
 markdown: kramdown
 permalink: /:title/
