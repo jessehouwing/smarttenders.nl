@@ -6,6 +6,7 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/vnd.microsoft.icon">
   {% seo %}
   {% feed_meta %}
 </head>
@@ -18,6 +19,7 @@
       <div class="social-icons">
         <ul>
           <li><a href="https://www.linkedin.com/in/roelfhouwing" target="_blank" rel="me noopener" aria-label="LinkedIn"><img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn" width="32" height="32"></a></li>
+          <li><a href="https://www.twitter.com/Smart_Tenders" target="_blank" rel="me noopener" aria-label="Twitter"><img src="{{ '/assets/images/twitter.png' | relative_url }}" alt="Twitter" width="32" height="32"></a></li>
         </ul>
       </div>
       <div id="logo">
@@ -38,7 +40,10 @@
           <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Wat</a></li>
           <li><a href="{{ '/wie-we-zijn/' | relative_url }}"{% if page.url contains 'wie-we-zijn' %} class="active"{% endif %}>Wie</a></li>
           <li><a href="{{ '/onze-diensten/' | relative_url }}"{% if page.url contains 'onze-diensten' %} class="active"{% endif %}>Diensten</a></li>
+          <li><a href="{{ '/complimenten-van-de-klanten-van-smart-tenders/' | relative_url }}"{% if page.url contains 'complimenten' %} class="active"{% endif %}>Complimenten</a></li>
+          <li><a href="{{ '/een-greep-uit-onze-klanten/' | relative_url }}"{% if page.url contains 'een-greep-uit-onze-klanten' %} class="active"{% endif %}>Klanten</a></li>
           <li><a href="{{ '/aanbestedingen-winnen/' | relative_url }}"{% if page.url contains 'aanbestedingen-winnen' %} class="active"{% endif %}>Boek</a></li>
+          <li><a href="{{ '/members/' | relative_url }}"{% if page.url contains 'members' %} class="active"{% endif %}>Members</a></li>
           <li><a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' or page.layout == 'post' %} class="active"{% endif %}>Blog</a></li>
           <li><a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active"{% endif %}>Contact</a></li>
         </ul>
@@ -63,7 +68,10 @@
           <li><a href="{{ '/' | relative_url }}">Wat</a></li>
           <li><a href="{{ '/wie-we-zijn/' | relative_url }}">Wie</a></li>
           <li><a href="{{ '/onze-diensten/' | relative_url }}">Diensten</a></li>
+          <li><a href="{{ '/complimenten-van-de-klanten-van-smart-tenders/' | relative_url }}">Complimenten</a></li>
+          <li><a href="{{ '/een-greep-uit-onze-klanten/' | relative_url }}">Klanten</a></li>
           <li><a href="{{ '/aanbestedingen-winnen/' | relative_url }}">Boek</a></li>
+          <li><a href="{{ '/members/' | relative_url }}">Members</a></li>
           <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
           <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
         </ul>
