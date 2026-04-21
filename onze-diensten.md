@@ -77,4 +77,4 @@ Om het traject goed af te sluiten, zodat u in de toekomst steeds beter aanbiedt,
 
 Smart Tenders helpt u in alle fases van het aanbiedingstraject, vanaf de voorbereiding tot en met het indienen van de offerte, maar ook bij presentaties, onderhandelingen of het aanvechten van de gunning.
 
-[Neem contact op](/contact/){: .btn}
+[Neem contact op]({{ site.baseurl }}/contact/){: .btn}
