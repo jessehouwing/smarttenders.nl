@@ -33,7 +33,7 @@ Hoe zorg je er nu voor, dat je bekend bent bij aanbestedende diensten waarvoor j
   * Keuzes maken: bepalen op welke klanten je je gaat richten.
   * Inkopers en potentiële opdrachtgevers uitnodigen op een evenement in jouw bedrijf, bijvoorbeeld bij de lancering van een nieuwe dienst of bij een jubileum;
   * Uitzoeken of er contracten zijn met grote bedrijven, aan wie jij zou kunnen leveren;
-  * Linken op social media: LinkedIn en volgen op Twitter, Facebook en Google+;
+  * Linken op social media: LinkedIn, Facebook en Google+;
   * Actief zijn op social media, zodat je connecties regelmatig iets van je te zien krijgen.
 
 

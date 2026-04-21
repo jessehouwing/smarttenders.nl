@@ -98,7 +98,7 @@ Inkopers verwachten van ondernemers dat ze zich ook als ondernemers gedragen. Zi
   * Proberen afspraken te krijgen met deze opdrachtgevers om gesprekken aan te gaan over problemen, wensen en kansen in die afdelingen;
   * Inkopers en potentiële opdrachtgevers uitnodigen op een evenement in jouw bedrijf, bijvoorbeeld bij de lancering van een nieuwe dienst of bij een jubileum;
   * Uitzoeken of er contracten zijn met grote bedrijven, aan wie jij zou kunnen leveren. In de catering liggen hier bijvoorbeeld kansen;
-  * Linken op social media, met name LinkedIn, en volgen op Twitter, Facebook en Google+;
+  * Linken op social media, met name LinkedIn, Facebook en Google+;
   * Actief zijn op social media, zodat je connecties regelmatig iets van je te zien krijgen.
 
 

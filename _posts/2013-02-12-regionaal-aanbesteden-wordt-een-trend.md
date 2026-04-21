@@ -17,7 +17,7 @@ De gemeente Steenwijkerland heeft een regionaal aanbestedingsmodel ontwikkeld om
 
 ### Meervoudig onderhandse procedure
 
-De gemeente kiest voor alle opdrachten onder de aanbestedingsdrempel voor een meervoudig onderhandse procedure. Daarbij worden drie partijen waar de gemeente vertrouwen in heeft direct benaderd. Dat zijn, afhankelijk van de opdracht in principe lokale of regionale partijen. Daarnaast proberen ze altijd één externe partij rechtstreeks te selecteren. Dat houdt het lokale bedrijfsleven scherp. De gemeente geeft nieuwsbrieven uit met aankondigingen van opdrachten. Iedere ondernemer kan zich daarvoor aanmelden. Ook de gemeentelijke website en Twitter worden ingezet. De aanpak sluit prima aan op de Aanbestedingswet: toegankelijkheid voor het MKB, transparantie en proportionaliteit van onderhandse procedures.
+De gemeente kiest voor alle opdrachten onder de aanbestedingsdrempel voor een meervoudig onderhandse procedure. Daarbij worden drie partijen waar de gemeente vertrouwen in heeft direct benaderd. Dat zijn, afhankelijk van de opdracht in principe lokale of regionale partijen. Daarnaast proberen ze altijd één externe partij rechtstreeks te selecteren. Dat houdt het lokale bedrijfsleven scherp. De gemeente geeft nieuwsbrieven uit met aankondigingen van opdrachten. Iedere ondernemer kan zich daarvoor aanmelden. Ook de gemeentelijke website wordt ingezet. De aanpak sluit prima aan op de Aanbestedingswet: toegankelijkheid voor het MKB, transparantie en proportionaliteit van onderhandse procedures.
 
 Bedrijven moeten wel zelf initiatief nemen, hun interesse kenbaar maken. Dat is een kwestie van gezond ondernemerschap. Registratie voor de aanbestedingsnieuwsbrief is een kleine moeite.
 
