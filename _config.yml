@@ -1,0 +1,24 @@
+title: Smart Tenders
+description: Hulp en advies bij aanbestedingen en offertes. Smart Tenders helpt bedrijven bij het succesvol inschrijven op Europese aanbestedingen en bij het maken van winnende offertes.
+baseurl: ""
+url: "https://smarttenders.nl"
+lang: nl
+
+author:
+  name: Roelf Houwing
+  email: info@smarttenders.nl
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

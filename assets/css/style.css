@@ -1,0 +1,547 @@
+/* ==========================================================================
+   Smart Tenders – custom theme
+   Based on the original Drupal 7 smarttenders theme (style.css + access2.css)
+   ========================================================================== */
+
+/* Reset
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, abbr, img,
+ul, ol, li, dl, dt, dd, form, fieldset, label, legend,
+nav, section, header, footer, aside, article, figure, figcaption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, menu, nav, section {
+  display: block;
+}
+
+/* Base
+   ========================================================================== */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 1.62em;
+  background: #fff;
+  color: #515F5C;
+}
+
+a {
+  color: #FB5A02;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d94e00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222e36;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  margin-bottom: 6px;
+  line-height: 1.25;
+}
+
+h1 { font-size: 24px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 14px; }
+h6 { font-size: 13px; }
+
+p {
+  margin-bottom: 18px;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+  margin-bottom: 12px;
+}
+
+ol {
+  list-style: decimal;
+  margin-left: 30px;
+  margin-bottom: 18px;
+}
+
+li {
+  margin-bottom: 3px;
+  padding-left: 2px;
+}
+
+strong { font-weight: bold; }
+em     { font-style: italic; }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 20px 0;
+}
+
+/* Utility
+   ========================================================================== */
+
+.clear {
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+#header_wrapper {
+  background: #fff;
+}
+
+#inner_header_wrapper {
+  position: relative;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+#header {
+  max-width: 955px;
+  margin: 0 auto;
+  padding: 0 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Social icons – top-right of header */
+.social-icons {
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+
+.social-icons ul {
+  list-style: none;
+  margin: 0;
+  padding: 6px 0 0;
+  display: flex;
+  gap: 4px;
+}
+
+.social-icons li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: none;
+}
+
+.social-icons a {
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.social-icons a:hover {
+  opacity: 1;
+}
+
+/* Logo */
+#logo {
+  float: left;
+  margin: 30px 10px 25px 5px;
+}
+
+#logo img {
+  display: block;
+}
+
+/* Site title */
+#site-title {
+  float: left;
+  margin: 25px 0 0;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+#site-title a {
+  display: block;
+  color: #222e36;
+}
+
+#site-title a:hover {
+  color: #7F2203;
+}
+
+#site-description {
+  display: block;
+  font-size: 12px;
+  font-weight: normal;
+  color: #949292;
+  margin-top: 3px;
+  clear: both;
+  float: left;
+}
+
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
+
+.menu_wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#main-menu {
+  background: #7F2203;
+  border-bottom: 4px solid #FD944B;
+  overflow: hidden;
+  position: relative;
+  z-index: 10;
+}
+
+#main-menu ul.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+#main-menu ul.menu li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: none;
+}
+
+#main-menu ul.menu a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 13px 21px;
+}
+
+#main-menu ul.menu a:hover,
+#main-menu ul.menu a.active {
+  background: #FD944B;
+  color: #fff;
+}
+
+/* ==========================================================================
+   Page container
+   ========================================================================== */
+
+#container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1%;
+  background: #fff;
+  overflow: hidden;
+}
+
+/* Banner */
+.region-slideshow {
+  text-align: center;
+  padding: 4px 0;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+/* ==========================================================================
+   Content + Sidebar layout
+   ========================================================================== */
+
+.content-sidebar-wrap {
+  overflow: hidden;
+}
+
+.content-sidebar-wrap.front {
+  margin-top: 20px;
+}
+
+.content-sidebar-wrap #content {
+  float: right;
+  width: 78%;
+}
+
+#sidebar-first {
+  float: left;
+  width: 20%;
+  padding-left: 10px;
+  color: #666;
+  font-size: 12px;
+}
+
+#post-content {
+  padding: 0 20px;
+}
+
+/* Page title */
+.page-title {
+  font-size: 20px;
+  color: #222e36;
+  margin-bottom: 15px;
+}
+
+/* ==========================================================================
+   Sidebar blocks
+   ========================================================================== */
+
+#sidebar-first .block {
+  margin-bottom: 20px;
+}
+
+#sidebar-first .block h2 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #222e36;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #eee;
+}
+
+#sidebar-first .block .content img {
+  display: block;
+  margin-bottom: 8px;
+  max-width: 100%;
+}
+
+#sidebar-first p {
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+/* ==========================================================================
+   Blog listing
+   ========================================================================== */
+
+.post-teaser {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.post-teaser h2 {
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.post-teaser h2 a {
+  color: #222e36;
+}
+
+.post-teaser h2 a:hover {
+  color: #FB5A02;
+}
+
+.post-date {
+  color: #888;
+  font-size: 11px;
+  margin-bottom: 8px;
+}
+
+.read-more {
+  font-size: 12px;
+  font-weight: bold;
+  color: #FB5A02;
+}
+
+/* ==========================================================================
+   Blog post
+   ========================================================================== */
+
+.submitted {
+  background: #f7f7f7;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 2px 8px;
+  margin-bottom: 15px;
+  color: #383838;
+  font-size: 11px;
+}
+
+.post-nav {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+  font-size: 12px;
+}
+
+/* ==========================================================================
+   Buttons / CTAs
+   ========================================================================== */
+
+.btn {
+  display: inline-block;
+  background: #7F2203;
+  color: #fff !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-right: 6px;
+}
+
+.btn:hover {
+  background: #FD944B;
+  color: #fff !important;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+#footer {
+  background: #1d1d1d;
+  color: #808080;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+#footer_wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1%;
+}
+
+#footer-area {
+  overflow: hidden;
+  padding: 20px 0 10px;
+}
+
+#footer-area .column {
+  float: left;
+  width: 31%;
+  margin-right: 2%;
+  padding-left: 10px;
+}
+
+#footer-area .column:last-child {
+  margin-right: 0;
+}
+
+#footer-area h2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #FDF699;
+  margin-bottom: 10px;
+}
+
+#footer-area ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#footer-area ul li {
+  list-style: none;
+  background: none;
+  margin-bottom: 4px;
+  padding: 0 0 0 15px;
+}
+
+#footer-area a {
+  color: #808080;
+}
+
+#footer-area a:hover {
+  color: #FB5A02;
+}
+
+.footer_credit {
+  border-top: 1px solid #333;
+  padding: 10px 0;
+}
+
+.footer_inner_credit {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1%;
+  overflow: hidden;
+}
+
+#copyright {
+  overflow: hidden;
+}
+
+.copyright {
+  float: left;
+  color: #666;
+  font-size: 11px;
+  margin: 0;
+}
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media screen and (max-width: 960px) {
+  #main-menu ul.menu a {
+    padding: 13px 14px;
+  }
+
+  .content-sidebar-wrap #content,
+  #sidebar-first {
+    float: none;
+    width: 100%;
+  }
+
+  #sidebar-first {
+    clear: both;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #logo {
+    margin: 13px 10px;
+  }
+
+  #site-title {
+    font-size: 20px;
+    margin-top: 15px;
+  }
+
+  #main-menu ul.menu {
+    display: none;
+  }
+
+  #footer-area .column {
+    float: none;
+    width: auto;
+    margin: 10px;
+  }
+}

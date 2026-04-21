@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% if page.banner %}
+<div class="region region-slideshow">
+  <img src="{{ '/assets/images/' | append: page.banner | relative_url }}" alt="Smart Tenders" class="banner-image">
+</div>
+{% endif %}
+
+<div class="content-sidebar-wrap">
+
+  <div id="content">
+    <section id="post-content" role="main">
+      {% if page.title %}
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </section>
+  </div>
+
+  <aside id="sidebar-first" role="complementary">
+    <div class="block block-nodeblock">
+      <h2>Over Smart Tenders</h2>
+      <div class="content">
+        <img src="{{ '/assets/images/logo-smart-tenders.gif' | relative_url }}" alt="Logo Smart Tenders" width="269" height="174">
+        <p>Smart Tenders begeleidt uw bedrijf bij het uitbrengen van kansrijke aanbiedingen. Deze aanbiedingen voldoen aan alle voorschriften, zijn aantrekkelijk geschreven en beantwoorden alle vragen die in de aanvraag zijn gesteld.</p>
+        <p>Bel ons op <a href="tel:0651122552">06 - 511 22 552</a></p>
+        <p>Lees ook de artikelen bij <a href="https://www.multiraedt.nl/author/roelf-houwing/" target="_blank" rel="noopener">Multiraedt</a></p>
+      </div>
+    </div>
+  </aside>
+
+</div>
