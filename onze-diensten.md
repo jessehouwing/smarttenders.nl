@@ -2,6 +2,8 @@
 layout: page
 title: Onze diensten
 permalink: /onze-diensten/
+banner: brug4.jpg
+description: "Smart Tenders helpt u in alle fases van het aanbiedingstraject, vanaf de voorbereiding tot en met het indienen van de offerte, maar ook bij presentaties, onderhandelingen of het aanvechten van de gunning."
 ---
 
 ## Een goed aanbiedingstraject zorgt dat u opvalt in de grijze massa
@@ -54,8 +56,22 @@ Tijdens de gunningsfase kan uw klant om een nadere toelichting vragen. Daarvoor 
 
 - Het maken van een presentatie
 - Proefpresentaties houden en feedback geven
-- Voorbereiding op onderhandelingen
-- Begeleiding bij het aanvechten van een negatieve gunning
+- Onderhandelingen voorbereiden
+- Beoordelen van de rechtmatigheid van de gunning
+- Aanvechten van de gunning aan uw concurrent
+
+---
+
+## Nazorg
+
+Nadat de aanbieding is uitgebracht houdt u een evaluatiesessie en legt u de lessons learned vast voor een volgende aanbieding. Verder kunt u alvast een concept referentie maken. Tenslotte kunt u herbruikbare teksten voor toekomstig gebruik in een tekstbibliotheek opbergen.
+
+Om het traject goed af te sluiten, zodat u in de toekomst steeds beter aanbiedt, kunnen wij u helpen met:
+
+- Lessons learned sessie houden
+- Opstellen van referenties
+- Goede stukken tekst herbruikbaar maken
+- Opleiden en inrichten van uw eigen tenderdesk
 
 ---
 
