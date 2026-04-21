@@ -137,5 +137,3 @@ Voor contact kunt u terecht bij: [Jesse Houwing](mailto:jesse@houwing.net)
 > — **Tjeerd Stel**, Counsellor
 
 ---
-
-*De warmte die uit zijn netwerk is gekomen heeft ons geraakt. Dank aan iedereen die Roelf heeft gekend en om hem heeft gegeven.*
