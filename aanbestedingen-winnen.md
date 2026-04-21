@@ -8,7 +8,7 @@ description: "Wanneer is uw klant bereid om iets van u te kopen? Een goede voorb
 
 ![Boekomslag Aanbestedingen winnen]({{ '/assets/images/cover_3.png' | relative_url }}){: style="max-width:280px; float:right; margin:0 0 20px 20px;"}
 
-**[Bestel het boek hier](http://www.boekenbestellen.nl/shop/external?P=9789463455695&EX=9753&idp=3){:target="_blank" rel="noopener"} voor € 27,50**
+**[Bestel het boek hier](http://www.boekenbestellen.nl/shop/external?P=9789463455695&EX=9753&idp=3){:target="_blank" rel="noopener"} voor € 14,50** *(+ € 2,99 verzendkosten Nederland, totaal € 17,49)*
 
 "Aanbestedingen winnen" is een volledig herziene versie van mijn eerste boek "Winnen met aanbestedingen en offertes" (inmiddels uitverkocht). De overheid besteedt voor zo'n 75 miljard per jaar aan diensten, leveringen en werken bij het bedrijfsleven. Het MKB krijgt een relatief klein deel van deze opdrachten, maar het worden er steeds meer. Met 10 jaar ervaring in een ICT-bedrijf en ruim 7 jaar ervaring als zelfstandig adviseur bied ik met dit boek een schat aan kennis en ervaring voor het MKB in tientallen branches om succesvol in te schrijven op aanbestedingen en om ze steeds eenvoudiger te kunnen winnen.
 
@@ -92,4 +92,4 @@ Inleiding over MKB'ers
 
 ---
 
-**[Bestel het boek hier](http://www.boekenbestellen.nl/shop/external?P=9789463455695&EX=9753&idp=3){:target="_blank" rel="noopener"} voor € 27,50**
+**[Bestel het boek hier](http://www.boekenbestellen.nl/shop/external?P=9789463455695&EX=9753&idp=3){:target="_blank" rel="noopener"} voor € 14,50** *(+ € 2,99 verzendkosten Nederland, totaal € 17,49)*
