@@ -15,6 +15,7 @@ plugins:
 # Navigation
 header_pages:
   - in-memoriam.md
+  - wat-zijn-we.md
   - onze-diensten.md
   - wie-we-zijn.md
   - aanbestedingen-winnen.md
