@@ -150,6 +150,8 @@ blockquote + p {
   padding: 0 10px;
   overflow: hidden;
   position: relative;
+  display: flex;
+  align-items: flex-start;
 }
 
 /* Social icons – top-right of header */
@@ -185,7 +187,7 @@ blockquote + p {
 
 /* Logo */
 #logo {
-  float: left;
+  flex-shrink: 0;
   margin: 30px 10px 25px 5px;
 }
 
@@ -195,7 +197,8 @@ blockquote + p {
 
 /* Site title */
 #site-title {
-  float: left;
+  flex: 1;
+  min-width: 0;
   margin: 25px 0 0;
   font-size: 28px;
   font-weight: bold;
