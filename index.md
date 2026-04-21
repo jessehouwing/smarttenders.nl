@@ -1,39 +1,101 @@
 ---
-layout: home
-title: Hulp en advies bij aanbestedingen en offertes
+layout: page
+title: In Memoriam – Roelf Houwing (1956–2025)
 ---
 
-## Winnende offertes en aanbestedingen
+## Roelf Houwing
 
-Hoe vaak brengt u een offerte uit? En hoe vaak wint u de opdracht dan ook? Voor veel bedrijven is het inschrijven op een aanbesteding bepaald geen dagelijks werk. Daardoor krijgen ze er geen routine in en is het elke keer een zware bevalling met een lage scoringskans.
+**Marknesse, 16 juni 1956 – Lelystad, 18 november 2025**
 
-**Smart Tenders helpt bedrijven bij het succesvol inschrijven op Europese aanbestedingen en bij het maken van winnende offertes en aanbiedingen.** Smart Tenders is altijd op de hoogte van de laatste wet- en regelgeving op het terrein van aanbestedingen. Wij stellen de juiste vragen over het bestek en de voorwaarden. Daardoor kunnen wij u helpen om onredelijke eisen van tafel te krijgen. En wij schrijven mee om uw offerte echt onderscheidend te maken.
+---
 
-Smart Tenders adviseert bedrijven bij het inrichten van een efficiënt bidproces, vanaf het spotten van een lead tot en met het indienen van de aanbieding, het presenteren bij de klant en de eventuele onderhandelingen. Smart Tenders helpt door het aanbiedingstraject te structureren en door veel werk uit handen te nemen. U kunt Smart Tenders dus inschakelen voor incidentele aanbiedingstrajecten, maar ook voor interim management van uw offerte-afdeling.
+*Vol in het leven, midden in het spel, hebben we plotseling afscheid moeten nemen van onze allerliefste Roelf.*
 
-## Verbeter uw winkans
+---
 
-Met de diensten van Smart Tenders verbeteren wij de winkans van uw offerte. Bij aanbestedingen en offertetrajecten is er altijd maar één winnaar. Er bestaat geen zilveren medaille. Daarom is het belangrijk om bij aanvang van een aanbiedingstraject de kansen in te schatten. Als de kansen te klein zijn, kun je beter niet inschrijven, maar als je wel meedoet, moet je er vol voor gaan. Het is dan niet genoeg om een ruime voldoende te scoren. Je moet de beste zijn.
+Roelf Houwing was de oprichter van Smart Tenders. Als bidmanager en aanbestedingsadviseur heeft hij jarenlang organisaties van uiteenlopende branches geholpen bij het succesvol inschrijven op aanbestedingen en het schrijven van winnende offertes. Hij deed dit met vakkennis, een directe stijl en een oprecht hart voor zijn klanten en collega's.
 
-Smart Tenders heeft sinds de oprichting aanbiedingstrajecten succesvol begeleid voor bedrijven in de meest uiteenlopende branches:
+Zijn magische woorden over aanbestedingen zullen velen bijblijven: **"Er is geen zilveren medaille."**
 
-- ICT
-- Facility Management
-- Verpakkingen
-- Wegenbouw
-- Woningaanpassing
-- Uitzendbranche
-- Beveiliging
-- Audiovisuele voorlichting
-- Apps en Assessments
-- Drukkerijen en Multifunctionals
-- Laadpalen
-- Zorg en Welzijn
-- Schoonmaak
-- Marktonderzoek
+Voor contact kunt u terecht bij: [Jesse Houwing](mailto:jesse@houwing.net)
 
-## Het Tendergilde
+---
 
-Smart Tenders werkt samen met andere bedrijven om u altijd te kunnen helpen. Smart Tenders is opgenomen in een netwerk van freelance bidmanagers en offertespecialisten: het **Tendergilde**. Daardoor is Smart Tenders altijd in staat om u hulp aan te bieden bij het beantwoorden van een offerteaanvraag of een aanbesteding. De specialisten waarmee Smart Tenders samenwerkt hebben allemaal meer dan 5 jaar ervaring. Naast bidmanagers zijn er ook tekstschrijvers en grafisch specialisten aangesloten bij het Tendergilde.
+## Herinneringen van collega's
 
-[Bekijk onze diensten]({{ site.baseurl }}/onze-diensten/){: .btn} &nbsp; [Neem contact op]({{ site.baseurl }}/contact/){: .btn}
+> "Als Roelf een aanbiedingstraject begeleidde kon je erop vertrouwen. Hij was een man met een duidelijke mening die hij ook uitsprak — zeer betrouwbaar en ter zake kundig. Een zeer fijn mens met een groot hart."
+
+— **Jacques Moison**, Sales Director
+
+> "Een prettig en gelukkig eigenwijs persoon die gecommitteerd was en altijd leverde."
+
+— **Bart Hendriks**, Global Account Executive, voormalig Sogeti collega
+
+> "De twinkeling (of vuur) in zijn ogen, vastberaden zijn kennis en kunde delen. Proces, kwaliteit en het team in de gaten houden."
+
+— **Marriet Rosier**, Business Leader @ KZA
+
+> "Zijn magische woorden over aanbestedingen zullen me bijblijven: 'Er is geen zilveren medaille.'"
+
+— **Irene Medema**, Interim manager, lid van de BKL
+
+> "Roelf heeft me lang geleden begeleid om op een aanbesteding in te schrijven en met zijn goede adviezen hebben we die toen ook gewonnen. Ik heb veel van hem geleerd en daarna nog veel aanbestedingen succesvol weten af te sluiten."
+
+— **Erik van den Belt**, Strategic Advisor
+
+> "Roelf hielp me bijna 12 jaar geleden met opstarten van m'n eigen tenderpraktijk. Goede herinnering aan hem!"
+
+— **Chris Van der Vlugt**, Tender adviseur
+
+> "Roelf is een praktisch mens en stond met zijn poten in de klei. En daar stond hij goed."
+
+— **Diederik Heij**, Adviseur MVOI bij VNG
+
+> "Roelf was een mooie persoon; ik heb heel fijn samengewerkt en we hebben veel tenderervaringen uitgewisseld."
+
+— **Inge van Laarhoven**, Oprichter TenderSucces, TenderKracht en TenderAcademie
+
+> "Hij was super goed in zijn vak. Beaumont Communicatie & Management heeft de afgelopen jaren veel met Roelf samengewerkt aan tenders."
+
+— **Linda Troost**, Managing Partner Beaumont Communicatie & Management
+
+> "Roelf was een aimabele en kundige en vooral zeer behulpzame collega. Ik heb destijds heel fijn met hem samengewerkt."
+
+— **Michel Booy**, Senior Sales bij Ilionx
+
+> "Met Roelf was het lachen geblazen destijds bij Sogeti. Zeker ook serieus als het nodig was, maar ook weer niet te."
+
+— **Martin Hundepool**, Advisor, Ministry of Defence Netherlands
+
+> "Ongelofelijk! Als ik aan Roelf denk, herinner ik me vooral zijn humor. We hebben heel plezierig samengewerkt."
+
+— **Evert Jan van Hasselt**, Impact-first ondernemer
+
+> "Ik heb diverse aanbestedingen met Roelf mogen doen en veel geleerd en veel steun gehad aan zijn inzichten en procesbegeleiding."
+
+— **Erik Noort**, Solution Architect Collabite
+
+> "Roelf was een fijn collega met een enorme drive en passie voor het vak. Veel te jong om al afscheid van te moeten nemen."
+
+— **Marc Valkier**, Zelfstandig organisatieadviseur bij Defensie
+
+> "Roelf was een kundig en betrokken collega en bovendien een heel aardige man."
+
+— **Peter van Lint**, Voormalig Sogeti collega
+
+> "Had hem nog vele enthousiaste, levenslustige jaren gewensd, zoals ik Roelf kende in onze tijd samen bij Sogeti. Rust zacht, Roelf."
+
+— **Jeroen de Haas**, KPMG
+
+> "Ter zake kundig en goedlachs. Goede herinneringen aan Roelf als onze begeleider bij aanbestedingen."
+
+— **Adri van der Wurff**, Adviseur
+
+> "Roelf was een gewaardeerd collega uit de Sogeti-tijd."
+
+— **Erwin van Groeninge**, Principal Consultant
+
+> "Roelf was een fijn mens en prettig om mee te communiceren."
+
+— **Tjeerd Stel**, Counsellor
+
