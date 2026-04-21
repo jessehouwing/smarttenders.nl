@@ -3,10 +3,6 @@ layout: page
 title: In Memoriam – Roelf Houwing (1956–2025)
 ---
 
-## Roelf Houwing
-
-**Marknesse, 16 juni 1956 – Lelystad, 18 november 2025**
-
 <img src="{{ '/assets/images/Roelf Houwing - 1956-2025.jpg' | relative_url }}" alt="Roelf Houwing
 Marknesse, 16 juni 1956 – Lelystad, 18 november 2025">
 
