@@ -8,8 +8,6 @@ author:
   name: Roelf Houwing
   email: info@smarttenders.nl
 
-theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
