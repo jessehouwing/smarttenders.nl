@@ -17,7 +17,7 @@ Roelf Houwing was de oprichter van Smart Tenders. Als bidmanager en aanbesteding
 
 Zijn magische woorden over aanbestedingen zullen velen bijblijven: **"Er is geen zilveren medaille."**
 
-Voor contact kunt u terecht bij: [Jesse Houwing](mailto:jesse@houwing.net)
+Voor contact kunt u terecht bij: [Jesse Houwing](mailto:jesse.houwing@gmail.com)
 
 ---
 
