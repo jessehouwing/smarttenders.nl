@@ -6,7 +6,7 @@ permalink: /contact/
 
 ## Neem contact op
 
-Wilt u weten wat Smart Tenders voor uw bedrijf kan betekenen? Of heeft u een specifieke vraag over aanbestedingen of offertes? Neem vrijblijvend contact op!
+Wilde u weten wat Smart Tenders voor uw bedrijf kon betekenen? Of had u een specifieke vraag over aanbestedingen of offertes? Neem vrijblijvend contact op!
 
 ---
 
