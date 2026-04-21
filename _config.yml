@@ -14,11 +14,11 @@ plugins:
 
 # Navigation
 header_pages:
+  - in-memoriam.md
   - onze-diensten.md
   - wie-we-zijn.md
   - aanbestedingen-winnen.md
   - contact.md
-  - in-memoriam.md
 
 # Social links
 linkedin_username: roelfhouwing
