@@ -36,4 +36,4 @@ Smart Tenders heeft sinds de oprichting aanbiedingstrajecten succesvol begeleid 
 
 Smart Tenders werkt samen met andere bedrijven om u altijd te kunnen helpen. Smart Tenders is opgenomen in een netwerk van freelance bidmanagers en offertespecialisten: het **Tendergilde**. Daardoor is Smart Tenders altijd in staat om u hulp aan te bieden bij het beantwoorden van een offerteaanvraag of een aanbesteding. De specialisten waarmee Smart Tenders samenwerkt hebben allemaal meer dan 5 jaar ervaring. Naast bidmanagers zijn er ook tekstschrijvers en grafisch specialisten aangesloten bij het Tendergilde.
 
-[Bekijk onze diensten](/onze-diensten/){: .btn} &nbsp; [Neem contact op](/contact/){: .btn}
+[Bekijk onze diensten]({{ site.baseurl }}/onze-diensten/){: .btn} &nbsp; [Neem contact op]({{ site.baseurl }}/contact/){: .btn}

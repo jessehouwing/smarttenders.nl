@@ -32,4 +32,4 @@ Inge is eigenaar van TenderSucces. Zij benaderde Smart Tenders vrijwel direct na
 
 Ron Stekelenburg is aanbestedingsadvocaat. Hij heeft diepgaande kennis van het privaat- en aanbestedingsrecht. Wanneer er aanleiding is om tegen onrechtmatigheden in een aanbesteding te protesteren, dan is Ron met zijn scherpe tong en pen dé man om dat te doen.
 
-[Neem contact op](/contact/){: .btn}
+[Neem contact op]({{ site.baseurl }}/contact/){: .btn}

@@ -1,7 +1,7 @@
 title: Smart Tenders
 description: Hulp en advies bij aanbestedingen en offertes. Smart Tenders helpt bedrijven bij het succesvol inschrijven op Europese aanbestedingen en bij het maken van winnende offertes.
-baseurl: ""
-url: "https://smarttenders.nl"
+baseurl: "/smarttenders.nl"
+url: "https://jessehouwing.github.io"
 lang: nl
 
 author:
