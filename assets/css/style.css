@@ -549,6 +549,11 @@ blockquote + p {
   }
 }
 
+/* Current section label – hidden on wide screens */
+.current-section {
+  display: none;
+}
+
 /* Hamburger button – hidden on wide screens */
 .hamburger {
   display: none;
@@ -590,6 +595,16 @@ blockquote + p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+
+  /* Show current section label next to hamburger */
+  .current-section {
+    display: block;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0 14px;
   }
 
   /* Hide menu by default on mobile; show when toggled */
