@@ -239,6 +239,9 @@ blockquote + p {
   overflow: hidden;
   position: relative;
   z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 #main-menu ul.menu {
@@ -546,6 +549,31 @@ blockquote + p {
   }
 }
 
+/* Hamburger button – hidden on wide screens */
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px 14px;
+  margin-left: auto;
+}
+
+.hamburger span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: #fff;
+  margin: 5px 0;
+  border-radius: 2px;
+  transition: background 0.2s;
+}
+
+.hamburger:hover span,
+.hamburger:focus span {
+  background: #FD944B;
+}
+
 @media screen and (max-width: 640px) {
   #logo {
     margin: 13px 10px;
@@ -556,8 +584,32 @@ blockquote + p {
     margin-top: 15px;
   }
 
+  /* Show hamburger button */
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Hide menu by default on mobile; show when toggled */
   #main-menu ul.menu {
     display: none;
+    float: none;
+    width: 100%;
+  }
+
+  #main-menu ul.menu.is-open {
+    display: block;
+  }
+
+  #main-menu ul.menu li {
+    float: none;
+  }
+
+  #main-menu ul.menu a {
+    padding: 12px 16px;
+    border-top: 1px solid rgba(255,255,255,0.1);
   }
 
   #footer-area .column {
