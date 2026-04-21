@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Aanbestedingen dwingen je om te innoveren"
+date: 2016-07-26
+categories: Waarom inschrijven?
+---
+
+Er zijn diverse producten en diensten waarin je markt verliest als je niet continu blijft innoveren. Het zijn met name de markten waar inkoopbureaus zich hebben gespecialiseerd. Markten met veel afnemers. Denk aan schoolboeken, printers, energie.
+
+Enkele jaren geleden werkte ik een seizoen voor een distributeur van schoolboeken. Daarvan zijn er niet zoveel in Nederland, dus het was vrij eenvoudig om de concurrentie in de gaten te houden. In de periode november-februari ontvangen schoolboekendistributeurs aanbestedingen van vele scholen en schoolbesturen. Denk aan een getal ergens tussen 50 en 100.
+
+Op een gegeven moment begonnen we aanbestedingen te verliezen op de vraag hoe we leerlingen op de hoogte hielden van de status van hun bestelling. Dat was gek, want op die vraag hadden we tot dan toe altijd het maximale aantal punten gescoord. Na driftig speurwerk op de website van de concurrent, kwamen we erachter, dat zij een app hadden ontwikkeld en die ter beschikking stelden aan de leerlingen. Via die app konden leerlingen volgen wanneer hun boekenpakket zou worden afgeleverd. Heel veel stelde het niet voor, maar door deze innovatie kreeg de concurrent ineens meer punten dan wij. In de volgende aanbesteding beschreven we een app, die ruimschoots voor de zomervakantie aan de leerlingen beschikbaar zou worden gesteld, met nog iets meer functionaliteit. En toen kregen we weer de maximale punten.
+
+Dit verschijnsel doet zich voor in markten waar aanbestedende diensten, in dit geval schoolbesturen, het hele gedoe rond aanbesteden hebben uitbesteed aan gespecialiseerde bureaus. Daarvan zijn er maar 3 of 4. Af en toe komt er eens eentje bij die een speciaal inkoopkunstje, zoals BVP, bij de scholen propageert, maar ze komen bepaald niet als paddenstoelen uit de grond. De aanbestedingen zien er allemaal hetzelfde uit en de vragen lijken enorm veel op elkaar. Dus is het gek, als de score op een bepaalde vraag ineens anders is dan normaal.
+
+Hetzelfde gebeurt op de markt van multifunctionals (printers, kopeerapparaten en scanners in één). Omdat de markt zo groot is zijn ook hier gespecialiseerde bureaus actief, die voor hun klanten de sores van het aanbesteden uit handen nemen. Als je als aanbieder meedoet aan een aanbesteding, dan zie je regelmatig een aanbesteding voorbijkomen met bekende vragen. Elke keer weer probeer je een onderscheidende aanbieding te maken, toegeschreven naar de klant. Soms dan heb je iets nieuws. Een speciaal service abonnement of een speciaal kenmerk van jouw product. Je neemt het op in de aanbieding en weet op die manier een vaste klant van een van je concurrenten binnen te halen. Uiteraard overkomt jou ook regelmatig het omgekeerde. En wat gebeurt er dan vervolgens bij de nieuwe aanbestedingen? Jouw innovatie zie je ineens terug als een selectiecriterium. Dus alle concurrenten die meedoen bieden ineens hetzelfde aan. Ze moeten wel, anders liggen ze eruit. Op die manier is bijvoorbeeld de all-in klick ontstaan. De klant betaalt per printje en uit dat bedrag wordt de lease, de service en de toner betaald.
+
+Vervolgens gingen klanten vragen om functionaliteit die ervoor zou zorgen dat er minder zou worden geprint. En ook daarin wordt door de fabrikanten voorzien. Ze moeten wel, maar ze graven tegelijk hun eigen graf. Datzelfde zie je bij energiemaatschappijen. Zij leven van de gas- en elektriciteit opbrengst, maar worden tegelijk uitgedaagd door hun klanten om te adviseren over energiebesparingen. En degene die aantoonbaar bij zijn referenties een forse energiebesparing heeft gerealiseerd, die wint het contract. Dat kun je alleen maar volhouden als je andere inkomstenbronnen weet te vinden. Anders lig je eruit.
+
+Dit soort mechanismes dwingen bedrijven om te blijven innoveren en nieuwe, onderscheidende dingen te bedenken. Een innovatie is maar heel tijdelijk onderscheidend. Voor je het weet eist de markt dat die innovatie in je aanbieding zit en bieden je concurrenten het dus ook aan. Het bedrijf dat continu blijft vernieuwen is de uiteindelijke winnaar.
