@@ -1,11 +1,11 @@
 title: Smart Tenders
 description: Hulp en advies bij aanbestedingen en offertes. Smart Tenders helpt bedrijven bij het succesvol inschrijven op Europese aanbestedingen en bij het maken van winnende offertes.
-baseurl: "/smarttenders.nl"
-url: "https://jessehouwing.github.io"
+baseurl: ""
+url: "https://www.smarttender.nl"
 lang: nl
 
 author:
-  name: Roelf Houwing
+  name: Jesse Houwing
   email: info@smarttenders.nl
 
 plugins:
